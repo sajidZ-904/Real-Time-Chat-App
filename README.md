@@ -47,7 +47,7 @@ This project is a real-time chat application built using **Node.js**, **Express*
 
 3. Create a .env file in the project root
    ```bash
-   PORT=<YOUR_SERVER_PORT>
+   PORT=3000
    MONGO_URI=<YOUR_MONGODB_ATLAS_URI>
    JWT_SECRET=<YOUR_JWT_SECRET>
    NODE_ENV=test (for testing purposes)
