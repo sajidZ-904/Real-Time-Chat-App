@@ -38,8 +38,8 @@ This project is a real-time chat application built using **Node.js**, **Express*
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-name/chat-app.git
-   cd chat-app
+   git clone https://github.com/sajidZ-904/Real-Time-Chat-App.git
+   cd Real-Time-Chat-App
 
 2. Install dependencies:
    ```bash
